@@ -283,10 +283,14 @@ Return lRet
 |                                                                        | 
 | MV_CN9PSS C 020 - Senha da conta de email exclusiva para Contratos.    |
 |                   Ex. !Mail@0800                                       | 
+|                                                                        | 
 | MV_CN9ENV  C 050 - Conta de email exclusiva para Contratos.            |
 |                   Ex. contratos@amoedo.com.br                          |
+|                                                                        | 
 | MV_CN9REM C 300 - Emails de quem estão recebento, separados por virgula|
 |                   Ex. liegep@amoedo.com.br,fabio.simoes@amoedo.com.br  |
+|                                                                        | 
 | MV_CN9SRV C  50 - Endereco do servidor. Ex."smtp-rec.amoedo.com.br:587"|
+|                                                                        | 
 | MV_CN9TIME N 06 - Time Out Ex.120                                      |
  -----------------------------------------------------------------------*/
