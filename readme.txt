@@ -35,7 +35,9 @@ No git bash:
 
 
 ** Para subir para a nuvem (remoto) **
+git add -A
 git commit -am "Atualizando o README mais um vez"
+
 git push origin master
 
 
