@@ -41,5 +41,7 @@ git commit -am "Atualizando o README mais um vez"
 git push origin master
 
 
+git revert --no-edit 23b7206a0e4f7268065ad178819c066bca6f138d
+
 
 
