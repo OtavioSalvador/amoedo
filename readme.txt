@@ -33,3 +33,11 @@ No git bash:
 
  Ja esta com o acesso sincronizado com a base loca.
 
+
+** Para subir para a nuvem (remoto) **
+git commit -am "Atualizando o README mais um vez"
+git push origin master
+
+
+
+
