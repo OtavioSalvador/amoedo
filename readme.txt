@@ -40,8 +40,9 @@ git commit -am "Atualizando o README mais um vez"
 
 git push origin master
 
-
 git revert --no-edit 23b7206a0e4f7268065ad178819c066bca6f138d
 
-
+git push origin 20180716 (Incluir um branch remoto)
+git push origin :20180716 (Excluir um branch remoto)
+git push -d  20180716 (excluir um branch local)
 
